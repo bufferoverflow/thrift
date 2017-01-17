@@ -1,6 +1,8 @@
 Apache Thrift
 =============
 
+[![Join the chat at https://gitter.im/bufferoverflow/thrift](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bufferoverflow/thrift?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Last Modified: 2014-03-16
 
 License
